@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">popupTest</string>
+    <string-array name="listMenu">
+        <item>中国</item>
+        <item>海外</item>
+    </string-array>
+</resources>
